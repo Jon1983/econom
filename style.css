@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #0088CB;
+    text-decoration: none;
+}
+
+
+
+ul{
+    list-style: none;
+}
+
+
+.header{
+    width: 900px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+body{
+color: #49494A;                
+}
+
+.shapka h3{
+float: right;
+margin: 10px 80px 0 0;
+    
+}
+
+.topmenu{
+margin: 20px;
+   
+    
+}
+
+.topmenu a{
+margin-left: 15px;
+float: right;
+
+}
+
+.footer{
+
+
+}
+
+.footer h3{
+
+text-transform: uppercase;
+
+        
+}
+
+.footer li{
+background: #cccccc;
+width: 300px;
+padding: 15px 0 50px 20px;
+float: left;
+}
